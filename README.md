@@ -26,7 +26,7 @@ Replicates the **end-to-end analytical workflow** a Trust & Safety analyst uses 
 
 Security and Trust & Safety teams face a core analytical challenge: identifying malicious behaviour in high-volume activity logs (50K+ events/day) where no analyst can review everything and abuse patterns evolve continuously.
 
-This system uses **behavioural analytics** - understanding what *normal* looks like for each user - to surface contextually anomalous activity at scale.
+This system uses **behavioural analytics** - understanding what *normal* looks like for each user to surface contextually anomalous activity at scale.
 
 ---
 
